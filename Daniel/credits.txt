@@ -1,0 +1,10 @@
+Crédits
+
+Mars2O est un jeu créé dans le cadre de la Game Jam organisée par le journal Le Temps.
+Notre équipe est composé de quatre personnes :
+Marc Chappuis, le vétéran de l’équipe.
+Florian Meyer, un jeune pilote fougueux.
+Alice Kohut, notre dessinatrice old school.
+Daniel Escoval, chargé du repérage sur le terrain.
+
+Un grand merci aux organisateurs de cet événement riche en émotions et à l’équipe du Temps pour cette organisation aux petits oignons.

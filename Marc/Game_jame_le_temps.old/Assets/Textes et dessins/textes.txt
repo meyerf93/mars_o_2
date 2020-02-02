@@ -1,0 +1,29 @@
+Nouvelle partie
+
+Roger Swaf
+Chef opérateur
+
+Nos capteurs indiquent qu’il y aurait de l’eau liquide non loin de Vastitas Borealis. Voici le nouveau prototype de robot pour la trouver. Nos finances ne sont pas glorieuses et le public est plutôt intéressé par ces starlettes de télé-réalité… si vous ne trouvez pas d’eau, trouvez au moins de quoi captiver les gens et les pousser à investir dans notre projet.
+Niveau du jeu
+Roger Swaf
+Chef opérateur
+
+Pilote, depuis la crise des panneaux solaires, nous sommes revenus au bon vieux carburant. Malheureusement, il n’est pas illimité, veuillez bien le gérer pour mener à bien votre mission. La Mars Society, non, le Monde compte sur vous.
+
+Écran game over
+Roger Swaf
+Chef opérateur
+
+Vous n’avez plus de carburant. Notre mission a été éclipsée par une émission de téléréalité. C’est un fiasco auprès du public, vous êtes renvoyé.
+
+Écran win
+Roger Swaf
+Chef opérateur
+
+Vous n’avez pas trouvé de l’eau, mais les carottes récoltées sont très intéressantes. Vos recherches nous permettent d’avoir le budget pour relancer un nouveau robot.
+
+Écran win final
+Roger Swaf
+Chef opérateur
+
+Vous avez trouvé de l’eau ! C’est à peine croyable ! Mais c’est pas avec ces bêtes molécules qu’on fera rêver le public… Cependant, ils sont d’accord de nous financer un autre voyage dans un autre lieu. Espérons trouver une mer martienne.

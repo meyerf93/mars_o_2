@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Menu/Menu.unity
+    guid: 767aedff4b30b0746a3682070f067df5
+  - enabled: 1
+    path: Assets/Flight/Flight.unity
+    guid: b601bd7713b4fc94aa13297a79b4efc0
+  - enabled: 1
+    path: Assets/Brefing/Brefing.unity
+    guid: 95898fb7e17a1ec4096d85493094f314
+  - enabled: 1
+    path: Assets/Game/Game.unity
+    guid: bd832dcc7fb58b24c81b15533b17da73
+  - enabled: 1
+    path: Assets/Time/Time.unity
+    guid: 30a1c955cc8b9aa4d94bdcb7c4269d0c
+  - enabled: 1
+    path: Assets/Fail/Fail.unity
+    guid: 1546eb0f83f49ad4c8748bdcb20c28ba
+  - enabled: 1
+    path: Assets/Win/Win.unity
+    guid: 9fe8946f17182ce4fb0c055ef8f3919e
+  - enabled: 1
+    path: Assets/Credits/Credits.unity
+    guid: d74db1a66203ef540a9e34b6a4208b33
+  m_configObjects: {}
